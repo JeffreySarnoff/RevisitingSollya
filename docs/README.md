@@ -1,4 +1,7 @@
-#### [Sollya repository](http://sollya.gforge.inria.fr/)
+## Repositories
+
+#### [Sollya](http://sollya.gforge.inria.fr/)
+#### [PySollya](https://gitlab.com/metalibm-dev/pythonsollya/)
 
 ## References
 
