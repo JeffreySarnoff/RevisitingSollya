@@ -20,3 +20,5 @@
 ## Academic Papers
 -
 -
+
+## [Sollya Repository](http://sollya.gforge.inria.fr/)
