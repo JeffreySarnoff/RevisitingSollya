@@ -1,4 +1,4 @@
-#### [Sollya Repository](http://sollya.gforge.inria.fr/)
+#### [Sollya repository](http://sollya.gforge.inria.fr/)
 
 ## References
 
