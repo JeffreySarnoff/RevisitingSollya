@@ -1,14 +1,17 @@
-# Sollya [Sollya](http://sollya.gforge.inria.fr/)
+# Revisiting Sollya
 
-## Repositories
+
+## Additional Resources
+
+### Repositories
 
 - #### [Sollya](http://sollya.gforge.inria.fr/)
 - #### [PySollya](https://gitlab.com/metalibm-dev/pythonsollya/)
 - #### [Metalibm](http://www.metalibm.org/)
 
-## References
+### References
 
-### stable
+#### stable
 
 
 |            user manual | commands and functions |
@@ -24,5 +27,5 @@
 | [get pdf](https://gforge.inria.fr/sollya-weekly/sollya.pdf)  | [all together](http://sollya.gforge.inria.fr/sollya-weekly/help.php) |
 
 
-## Academic Papers
+### Academic Papers
 -
